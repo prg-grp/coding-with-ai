@@ -1,6 +1,6 @@
 # Table of Contents
 
-## Basic coding with AI
+## Basic Coding with AI
 
 [1 Fixing Syntax Errors with AI](basic-coding-with-AI/fixing-syntax-errors-with-AI.ipynb)
 
