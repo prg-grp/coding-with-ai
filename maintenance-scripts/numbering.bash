@@ -1,5 +1,10 @@
 #!/bin/bash
 
+
+
+# If not already installed, it requires a modified version of nbconvert
+# pip install --upgrade --force-reinstall git+https://github.com/paolovic/nbconvert.git@feature/numbering
+
 # Each line contains: <filename> <number>
 FILES_WITH_NUMBERS=(
 "introduction 1"
