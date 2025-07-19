@@ -4,7 +4,7 @@
 <img src="cover/cover-coding-with-AI.png" alt="Book Cover" width="50%"/>
 
 
-Artificial Intelligence is no longer a distant promise of the future—it’s here, embedded in the tools we use every day, including the ones we use to write code. This scratchbook is a practical guide to exploring the evolving intersection of coding and AI. Rather than teaching AI itself, it focuses on how to code more effectively with AI as a partner.
+Artificial Intelligence is no longer a distant promise of the future—it’s here, embedded in the tools we use every day, including the ones we use to write code. This scratchbook is a practical guide to exploring the evolving intersection of coding and AI. 
 
 Whether you’re a student, a self-taught programmer, or a professional looking to sharpen your skills, this book offers a structured journey through exercises that reflect real-world scenarios. From fixing syntax errors to building software projects with graphical interfaces, the chapters are designed to help you develop a deeper understanding of both programming and how to collaborate with AI-based tools.
 
