@@ -1,6 +1,10 @@
 # Coding with AI
 ## A Developer’s Sketchbook Across the Development Workflow
 
+To access this content, you can
+* Clone this repository to play with the Jupyter notebooks
+* Browse the [markdown version](markdown-version/table_of_contents.md) of the book
+
 <img src="cover/cover-coding-with-AI.png" alt="Book Cover" width="50%"/>
 
 
