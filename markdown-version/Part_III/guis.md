@@ -64,7 +64,7 @@ Generate a (rather complex) GUI that for a task manager application.
 The GUI gives users the ability to create new tasks, keep a list of tasks and remove tasks.
 The GUI looks like this:
 
-<img src="images/gui-example-1.png" alt="GUI Example" width="300"/>
+<img src="../../Part_III/images/gui-example-1.png" alt="GUI Example" width="300"/>
 
 A possible solution is below.
 Note how the UI is connected to the logic of the application.
