@@ -28,7 +28,7 @@ Let's design a new data structure, the **Immutable Ordered Binary Tree**
 Here is how it looks like:
 
 
-![IOBTree Example](../../../Part_II/images/iobtree.drawio.png)
+![IOBTree Example](../../Part_II/images/iobtree.drawio.png)
 
 
 Our design will be defined in a class whose methods are all not implemented,
@@ -254,7 +254,7 @@ Try designing an **Immutable List** (`IList`). Here is the specification:
 Here is how it looks like:
 
 
-![IList Example](../../../Part_II/images/ilist.drawio.png)
+![IList Example](../../Part_II/images/ilist.drawio.png)
 
 
 Write your design below. Remember that the `IList` is **immutable** just like the
