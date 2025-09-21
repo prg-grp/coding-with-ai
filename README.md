@@ -1,5 +1,5 @@
 # Coding with AI
-## A Developer’s Sketchbook Across the Development Workflow
+## A Programmer’s Sketchbook Across the Development Workflow
 
 To access this content, you can
 * Clone this repository to play with the Jupyter notebooks
